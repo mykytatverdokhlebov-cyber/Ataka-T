@@ -2,7 +2,7 @@
 
 Браузерная игра в жанре tower defense: защити стену от волн титанов и переплавляй их в сталь.
 
-**Играть:** https://mykytatverdokhlebov-cyber.github.io/atakat/
+**Играть:** https://mykytatverdokhlebov-cyber.github.io/Ataka-T/
 
 ## Режимы
 - **Кампания:** 15 уровней на карте, до 3 звёзд за уровень, 3 слота сохранения, открытие бойцов и «Кузница» улучшений.
